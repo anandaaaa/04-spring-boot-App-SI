@@ -2,6 +2,8 @@ package in.anand.util;
 
 import org.springframework.stereotype.Component;
 
+/* this is useful for this*/
+
 @Component
 public class EmailUtil {
 	public EmailUtil() {
